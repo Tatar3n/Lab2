@@ -29,5 +29,6 @@ def basket(x,y)
 end
 
 print(max_pair([-6,-5,3,4]))
+print(mult_complex(1,2,3,4))
 print(array_prime(10))
 print(basket(15, 7))
